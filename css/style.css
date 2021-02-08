@@ -1,0 +1,32 @@
+
+/*Footer*/
+
+footer{list-style-type: none}
+footer a {color: white}
+footer a:hover{color: white}
+
+
+/*Models*/
+
+.effect2{background: url("../images/effect2.jpg") no-repeat; background-size: cover; background-attachment: fixed; height: 500px ; background-position:center}
+.effect3{background: url("../images/effect3.jpg") no-repeat; background-size: cover; background-attachment: fixed; height: 450px ; background-position:center}
+.effect4{background: url("../images/effect4.jpg") no-repeat; background-size: cover; background-attachment: fixed; height: 450px ; background-position:center}
+.effect5{background: url("../images/effect5.jpg") no-repeat; background-size: cover; background-attachment: fixed; height: 450px ; background-position:center}
+
+/*About US*/
+
+.bg-black{background-image:url("../images/about2.jpg") ;background-size: cover; width: 100%; color: white ;padding: 20px 100px ; text-align: center}
+.bg-blackk{background-color: hsla(0,0%,0%,0.90); color: white; padding: 20px; border-radius: 10px}
+
+
+/*contact*/
+
+.contact{background: url("../images/contactbmww.jpg") no-repeat; background-size: cover; height:400px ; position: relative}
+.allform{position: absolute; left: 65%}
+
+
+/*Blog*/
+
+.blog-text{text-align: center; margin-top: 25px; margin-bottom: 25px}
+
+.nav-black{background-color: black}
